@@ -105,3 +105,27 @@
 [17:57:19] [Server thread/INFO]: STARTGAME was slain by Lvl 50 | Enderman
 [17:57:43] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
 [17:57:43] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[17:59:38] [Server thread/INFO]: Sebas23m issued server command: /home s
+[18:00:10] [Server thread/INFO]: Sebas23m issued server command: /home cf
+[18:01:20] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[18:01:27] [Server thread/INFO]: STARTGAME issued server command: /home r
+[18:01:33] [Server thread/INFO]: STARTGAME issued server command: /home 1
+[18:01:46] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[18:01:51] [Server thread/INFO]: STARTGAME issued server command: /home 3
+[18:01:56] [Server thread/INFO]: STARTGAME issued server command: /home 4
+[18:02:00] [Server thread/INFO]: STARTGAME issued server command: /home 6
+[18:02:04] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[18:02:44] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[18:03:22] [Server thread/INFO]: STARTGAME issued server command: /home 9
+[18:03:24] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[18:03:27] [Server thread/INFO]: Cami23m joined the game
+[18:03:27] [Server thread/INFO]: Cami23m[/127.50.210.97:60173] logged in with entity id 5816 at ([world]-352.69999998807907, 81.0, 153.52606015115882)
+[18:03:28] [Server thread/INFO]: STARTGAME issued server command: /home 8
+[18:03:32] [Server thread/INFO]: STARTGAME issued server command: /home r
+[18:03:54] [Server thread/INFO]: Sebas23m issued server command: /home c
+[18:04:08] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[18:04:08] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[18:04:28] [Server thread/INFO]: STARTGAME issued server command: /sethome 4
+[18:04:53] [Server thread/INFO]: Sebas23m issued server command: /home cf
+[18:04:53] [Server thread/INFO]: STARTGAME issued server command: /home r
+[18:05:10] [Server thread/INFO]: STARTGAME issued server command: /home 0
