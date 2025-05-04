@@ -116,3 +116,41 @@
 [18:52:22] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 1.04718685179094
 [18:52:22] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 1.4137889620114095
 [18:52:22] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 1.4148368536477651
+[18:57:13] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[18:57:16] [Server thread/INFO]: jp7806073 joined the game
+[18:57:16] [Server thread/INFO]: jp7806073[/127.60.118.40:34423] logged in with entity id 4685 at ([world]19.022422955231814, 55.0, 66.74198152945442)
+[18:57:20] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[18:57:20] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[18:57:55] [Server thread/INFO]: STARTGAME was slain by Lvl 50 | Zombified Piglin
+[18:58:08] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[18:58:08] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
+[18:58:41] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[18:58:41] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[18:58:52] [Server thread/INFO]: jp7806073 issued server command: /tp STARTGAME jp7806073
+[18:58:52] [Server thread/INFO]: [jp7806073: Teleported STARTGAME to jp7806073]
+[18:58:54] [Server thread/INFO]: Sebas23m issued server command: /op Cami23m
+[18:58:54] [Server thread/INFO]: [Sebas23m: Made Cami23m a server operator]
+[18:59:05] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[18:59:05] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[18:59:24] [Server thread/INFO]: jp7806073 issued server command: /tp STARTGAME jp7806073
+[18:59:24] [Server thread/INFO]: [jp7806073: Teleported STARTGAME to jp7806073]
+[18:59:29] [Server thread/INFO]: STARTGAME was slain by jp7806073
+[18:59:32] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> listo
+[18:59:43] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[18:59:43] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[18:59:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 768afe89-6e1d-4f7e-810c-38b24a9ce9ce, mapped to Bee['Bee'/1196, uuid='768afe89-6e1d-4f7e-810c-38b24a9ce9ce', l='ServerLevel[world]', x=-96.01, y=69.24, z=250.66, cpos=[-7, 15], tl=26499, v=true], can't add Bee['Bee'/5388, uuid='768afe89-6e1d-4f7e-810c-38b24a9ce9ce', l='ServerLevel[world]', x=-95.85, y=69.94, z=275.33, cpos=[-6, 17], tl=25148, v=false]
+[19:00:11] [Server thread/INFO]: Sebas23m issued server command: /home s
+[19:01:58] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> si
+[19:02:07] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> te spero en el ring
+[19:02:17] [Async Chat Thread - #4/INFO]: [Not Secure] <jp7806073> ando comiendo
+[19:03:35] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> responde
+[19:03:37] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> si
+[19:04:19] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> 55 fps
+[19:04:33] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> espérate q tomo algo
+[19:04:39] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> mal el otro me y va a 60
+[19:04:53] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> si
+[19:05:03] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> no a mí a 2 chunck
+[19:05:08] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> listo ??
+[19:05:10] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> 3
+[19:05:12] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> 2
+[19:05:14] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> 1
