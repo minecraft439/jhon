@@ -122,3 +122,22 @@
 [21:16:38] [Server thread/INFO]: [Sebas23m: Teleported Jesus23m to Sebas23m]
 [21:17:06] [Server thread/INFO]: Jesus23m has reached the goal [Sky's the Limit]
 [21:18:47] [Server thread/INFO]: jp7806073 issued server command: /tell jp7806073
+[21:20:18] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
+[21:20:18] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[21:20:53] [Server thread/INFO]: jp7806073 issued server command: /home T
+[21:23:03] [Server thread/INFO]: Jesus23m lost connection: Disconnected
+[21:23:03] [Server thread/INFO]: Jesus23m left the game
+[21:23:55] [User Authenticator #1/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[21:23:58] [Server thread/INFO]: Cami23m joined the game
+[21:23:58] [Server thread/INFO]: Cami23m[/127.50.210.97:38303] logged in with entity id 4306 at ([world]31.69999998807907, 63.0, 28.23117789900048)
+[21:24:52] [Server thread/INFO]: Sebas23m issued server command: /effect give Cami23m minecraft:haste infinite 100
+[21:24:52] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Cami23m]
+[21:26:30] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[21:26:30] [Server thread/INFO]: jp7806073 left the game
+[21:26:33] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:26:39] [Server thread/INFO]: jp7806073 joined the game
+[21:26:39] [Server thread/INFO]: jp7806073[/127.60.118.40:57063] logged in with entity id 5342 at ([world_nether]369.95025533801197, 11.0, 39.59795964253745)
+[21:27:14] [Server thread/INFO]: jp7806073 experienced kinetic energy while trying to escape Zombified Piglin
+[21:27:30] [Server thread/INFO]: jp7806073 issued server command: /home T
+[21:29:21] [Server thread/INFO]: Cami23m was impaled by Lvl 8 | Drowned
+[21:29:37] [Server thread/INFO]: Cami23m was impaled by Lvl 8 | Drowned
