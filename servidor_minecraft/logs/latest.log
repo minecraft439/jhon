@@ -122,3 +122,24 @@
 [20:41:48] [Server thread/INFO]: [jp7806073: Teleported jhonwuyck722 to jp7806073]
 [20:46:31] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [20:46:31] [Server thread/INFO]: jp7806073 left the game
+[20:48:02] [Server thread/INFO]: jhonwuyck722 lost connection: Disconnected
+[20:48:02] [Server thread/INFO]: jhonwuyck722 left the game
+[20:51:49] [Server thread/INFO]: Sebas23m issued server command: /home c
+[20:52:04] [Server thread/INFO]: Sebas23m issued server command: /home cf
+[20:52:09] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[20:52:09] [Server thread/INFO]: Sebas23m left the game
+[20:52:14] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[20:52:15] [Server thread/INFO]: Sebas23m joined the game
+[20:52:15] [Server thread/INFO]: Sebas23m[/127.50.210.97:56103] logged in with entity id 8633 at ([world]100.80516433740452, 180.0, -74.59019192463236)
+[20:52:35] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[20:52:35] [Server thread/INFO]: Sebas23m left the game
+[20:52:39] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[20:52:40] [Server thread/INFO]: Sebas23m joined the game
+[20:52:40] [Server thread/INFO]: Sebas23m[/127.50.210.97:44969] logged in with entity id 8686 at ([world]101.69999998807907, 180.0, -73.30000001192093)
+[20:52:56] [Server thread/INFO]: Sebas23m issued server command: /kill Sebas23m
+[20:52:56] [Server thread/INFO]: Sebas23m was killed
+[20:52:56] [Server thread/INFO]: [Sebas23m: Killed Sebas23m]
+[20:53:05] [Server thread/INFO]: Sebas23m issued server command: /home cf
+[20:53:17] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[20:53:17] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[20:55:39] [Server thread/INFO]: Cami23m fell from a high place
