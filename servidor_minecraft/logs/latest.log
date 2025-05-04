@@ -136,3 +136,26 @@
 [18:14:10] [Server thread/INFO]: Sebas23m issued server command: /home 3
 [18:14:30] [Server thread/INFO]: Sebas23m has made the advancement [Remote Getaway]
 [18:15:09] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[18:19:47] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[18:19:51] [Server thread/INFO]: STARTGAME issued server command: /home 4
+[18:20:06] [Server thread/INFO]: STARTGAME issued server command: /home r
+[18:20:32] [Server thread/INFO]: STARTGAME issued server command: /tp Cami23m STARTGAME
+[18:20:32] [Server thread/INFO]: [STARTGAME: Teleported Cami23m to STARTGAME]
+[18:23:21] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[18:23:32] [Server thread/INFO]: STARTGAME issued server command: /home r
+[18:25:00] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[18:25:00] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[18:25:01] [Server thread/INFO]: STARTGAME has made the advancement [The City at the End of the Game]
+[18:25:39] [Server thread/INFO]: STARTGAME has reached the goal [Sky's the Limit]
+[18:26:17] [Server thread/WARN]: Sebas23m moved wrongly!
+[18:26:26] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[18:26:26] [Server thread/INFO]: Cami23m has made the advancement [The End?]
+[18:26:26] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[18:26:27] [Server thread/INFO]: Cami23m has made the advancement [The City at the End of the Game]
+[18:27:35] [Server thread/INFO]: STARTGAME has made the advancement [Local Brewery]
+[18:27:46] [Server thread/INFO]: Cami23m has reached the goal [Sky's the Limit]
+[18:28:28] [Server thread/INFO]: STARTGAME issued server command: /sethome d
+[18:28:43] [Server thread/INFO]: Cami23m was doomed to fall by Shulker
+[18:29:07] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[18:29:07] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[18:29:59] [Server thread/INFO]: Cami23m fell from a high place

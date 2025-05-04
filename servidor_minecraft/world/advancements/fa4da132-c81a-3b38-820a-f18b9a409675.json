@@ -637,7 +637,8 @@
       "minecraft:piglin_brute": "2025-05-03 21:26:20 +0000",
       "minecraft:zombie": "2025-05-02 22:20:13 +0000",
       "minecraft:creeper": "2025-05-04 18:02:51 +0000",
-      "minecraft:hoglin": "2025-05-03 21:40:05 +0000"
+      "minecraft:hoglin": "2025-05-03 21:40:05 +0000",
+      "minecraft:shulker": "2025-05-04 18:25:49 +0000"
     },
     "done": false
   },
@@ -1811,15 +1812,39 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-04 18:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-04 18:25:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-04 18:11:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-04 18:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-05-04 18:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-04 18:19:01 +0000"
     },
     "done": true
   },
