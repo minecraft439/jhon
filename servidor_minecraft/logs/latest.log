@@ -170,3 +170,53 @@
 [19:14:24] [Server thread/INFO]: STARTGAME issued server command: /home
 [19:14:31] [Async Chat Thread - #8/INFO]: [Not Secure] <STARTGAME> tome 2
 [19:14:35] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[19:17:13] [Server thread/INFO]: Cami23m fell from a high place
+[19:20:16] [Server thread/INFO]: STARTGAME issued server command: /tp Cami23m STARTGAME
+[19:20:16] [Server thread/INFO]: [STARTGAME: Teleported Cami23m to STARTGAME]
+[19:20:16] [Server thread/INFO]: Cami23m has made the advancement [Those Were the Days]
+[19:22:15] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> lzito
+[19:22:21] [Server thread/INFO]: jp7806073 issued server command: /tp
+[19:22:30] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 Sebas23m
+[19:22:30] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to Sebas23m]
+[19:22:38] [Server thread/INFO]: Sebas23m issued server command: /home s
+[19:22:45] [Server thread/INFO]: Sebas23m issued server command: /deop jp7806073
+[19:22:45] [Server thread/INFO]: [Sebas23m: Made jp7806073 no longer a server operator]
+[19:22:55] [Server thread/INFO]: Sebas23m issued server command: /home e
+[19:22:56] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> rompía la armadura
+[19:22:58] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> pailas
+[19:23:20] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> me lo quité me quedaba 10 de vida
+[19:23:41] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> con Ignasi cualquier
+[19:23:47] [Server thread/INFO]: jp7806073 issued server command: /home A
+[19:23:52] [Async Chat Thread - #10/INFO]: [Not Secure] <jp7806073> pvp
+[19:23:53] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[19:23:53] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[19:24:13] [Server thread/INFO]: jp7806073 issued server command: /home Ee
+[19:25:45] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Enderman
+[19:25:57] [Server thread/INFO]: Sebas23m issued server command: /home e
+[19:26:20] [Server thread/INFO]: Cami23m didn't want to live in the same world as jp7806073
+[19:26:32] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[19:26:32] [Server thread/INFO]: STARTGAME left the game
+[19:26:47] [User Authenticator #5/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[19:26:49] [Server thread/INFO]: STARTGAME joined the game
+[19:26:49] [Server thread/INFO]: STARTGAME[/127.175.216.242:42061] logged in with entity id 16424 at ([world_nether]323.8773482229458, 40.0, 130.43764508244098)
+[19:27:16] [Server thread/INFO]: Sebas23m issued server command: /home s
+[19:27:48] [Server thread/INFO]: STARTGAME issued server command: /home 6
+[19:27:54] [Server thread/INFO]: STARTGAME issued server command: /home 1
+[19:29:08] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[19:29:37] [Server thread/INFO]: Cami23m hit the ground too hard
+[19:30:23] [Server thread/INFO]: STARTGAME has made the advancement [War Pigs]
+[19:32:59] [Server thread/INFO]: Cami23m hit the ground too hard
+[19:33:15] [Server thread/INFO]: Cami23m was slain by Lvl 11 | Endermite
+[19:33:16] [Async Chat Thread - #12/INFO]: [Not Secure] <jp7806073> si
+[19:33:23] [Async Chat Thread - #12/INFO]: [Not Secure] <jp7806073> lo mejor
+[19:33:26] [Async Chat Thread - #12/INFO]: [Not Secure] <jp7806073> para mod
+[19:33:36] [Async Chat Thread - #12/INFO]: [Not Secure] <jp7806073> déjalo
+[19:33:46] [Async Chat Thread - #12/INFO]: [Not Secure] <jp7806073> es difícil de conseguir
+[19:34:00] [Async Chat Thread - #12/INFO]: [Not Secure] <jp7806073> ya vengo
+[19:34:01] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[19:34:01] [Server thread/INFO]: jp7806073 left the game
+[19:34:21] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[19:36:16] [Async Chat Thread - #14/INFO]: [Not Secure] <STARTGAME> home 7
+[19:36:20] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[19:36:42] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[19:36:46] [Server thread/INFO]: Sebas23m issued server command: /home 1
