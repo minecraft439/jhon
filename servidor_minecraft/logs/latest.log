@@ -115,3 +115,10 @@
 [20:31:15] [Server thread/INFO]: Cami23m was slain by jp7806073
 [20:33:29] [Server thread/INFO]: Cami23m was slain by jp7806073
 [20:34:15] [Server thread/INFO]: Cami23m was slain by jp7806073
+[20:41:31] [User Authenticator #2/INFO]: UUID of player jhonwuyck722 is 22f109f5-0b6d-34a0-824b-497aa73b1c40
+[20:41:34] [Server thread/INFO]: jhonwuyck722 joined the game
+[20:41:34] [Server thread/INFO]: jhonwuyck722[/127.60.118.40:46503] logged in with entity id 6955 at ([world]12.690605685040435, 64.0, 20.32607772406668)
+[20:41:48] [Server thread/INFO]: jp7806073 issued server command: /tp jhonwuyck722 jp7806073
+[20:41:48] [Server thread/INFO]: [jp7806073: Teleported jhonwuyck722 to jp7806073]
+[20:46:31] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[20:46:31] [Server thread/INFO]: jp7806073 left the game
