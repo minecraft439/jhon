@@ -220,3 +220,30 @@
 [19:36:20] [Server thread/INFO]: STARTGAME issued server command: /home 7
 [19:36:42] [Server thread/INFO]: STARTGAME issued server command: /home 0
 [19:36:46] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[19:37:04] [User Authenticator #6/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:37:07] [Server thread/INFO]: jp7806073 joined the game
+[19:37:07] [Server thread/INFO]: jp7806073[/127.60.118.40:33783] logged in with entity id 21189 at ([world_the_end]2.98838881032281, 22.0, 240.92500001192093)
+[19:38:09] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[19:38:09] [Server thread/INFO]: jp7806073 left the game
+[19:38:10] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[19:38:10] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
+[19:39:50] [Server thread/INFO]: Cami23m fell from a high place
+[19:39:52] [Server thread/INFO]: Villager Villager['Villager'/3, uuid='899d11cc-c80c-4c22-97e3-43f4f634a5f9', l='ServerLevel[world]', x=6.36, y=53.00, z=71.51, cpos=[0, 4], tl=1420167, v=true] died, message: 'Villager suffocated in a wall'
+[19:40:35] [User Authenticator #7/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:40:39] [Server thread/INFO]: jp7806073 joined the game
+[19:40:39] [Server thread/INFO]: jp7806073[/127.60.118.40:52865] logged in with entity id 21900 at ([world_the_end]1.451872766074418, 22.0, 212.12227646402272)
+[19:41:30] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[19:41:30] [Server thread/INFO]: jp7806073 left the game
+[19:44:17] [User Authenticator #8/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:44:21] [Server thread/INFO]: jp7806073 joined the game
+[19:44:21] [Server thread/INFO]: jp7806073[/127.60.118.40:44471] logged in with entity id 22494 at ([world_the_end]28.95742959649316, 58.0, 83.53338430888137)
+[19:44:42] [Async Chat Thread - #16/INFO]: [Not Secure] <jp7806073> manooo
+[19:45:27] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[19:45:27] [Server thread/INFO]: jp7806073 left the game
+[19:45:29] [User Authenticator #9/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:45:32] [Server thread/INFO]: jp7806073 joined the game
+[19:45:32] [Server thread/INFO]: jp7806073[/127.60.118.40:46189] logged in with entity id 22708 at ([world_the_end]-0.5234500661137396, 63.0, 15.411389933605012)
+[19:45:53] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[19:45:53] [Server thread/INFO]: STARTGAME left the game
+[19:46:50] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[19:46:50] [Server thread/INFO]: jp7806073 left the game
