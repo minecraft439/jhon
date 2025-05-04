@@ -141,3 +141,14 @@
 [21:27:30] [Server thread/INFO]: jp7806073 issued server command: /home T
 [21:29:21] [Server thread/INFO]: Cami23m was impaled by Lvl 8 | Drowned
 [21:29:37] [Server thread/INFO]: Cami23m was impaled by Lvl 8 | Drowned
+[21:31:03] [Server thread/INFO]: Sebas23m issued server command: /effect give Cami23m minecraft:haste infinite 100
+[21:31:03] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Cami23m]
+[21:32:14] [Server thread/INFO]: jp7806073 issued server command: /home t
+[21:32:21] [Server thread/INFO]: jp7806073 issued server command: /home t
+[21:32:35] [Server thread/INFO]: jp7806073 issued server command: /home TA
+[21:32:48] [Server thread/INFO]: jp7806073 issued server command: /home T
+[21:33:18] [Server thread/INFO]: Cami23m was slain by Lvl 5 | Enderman
+[21:33:55] [Server thread/INFO]: Sebas23m issued server command: /effect give Cami23m minecraft:haste infinite 100
+[21:33:55] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Cami23m]
+[21:37:31] [Server thread/INFO]: Villager Villager['Villager'/45, uuid='441a5b03-55b3-4eba-ad95-73a0ec1f2662', l='ServerLevel[world]', x=1.86, y=53.00, z=35.30, cpos=[0, 2], tl=272560, v=true] died, message: 'Villager was squished too much'
+[21:38:42] [Server thread/INFO]: Villager Villager['Villager'/47, uuid='613fe1a6-57a7-40d4-9a3a-388c56b89377', l='ServerLevel[world]', x=1.79, y=53.00, z=35.70, cpos=[0, 2], tl=81063, v=true] died, message: 'Villager was squished too much'
