@@ -157,3 +157,29 @@
 [19:20:44] [User Authenticator #3/INFO]: UUID of player fito is e86126f0-a5a9-3987-bccc-219d1ccc778c
 [19:20:50] [Server thread/INFO]: fito joined the game
 [19:20:50] [Server thread/INFO]: fito[/127.175.216.242:55607] logged in with entity id 3259 at ([world]-22.243369146547412, 62.9375, 69.75435917899094)
+[19:23:14] [Server thread/INFO]: fito lost connection: Timed out
+[19:23:14] [Server thread/INFO]: fito left the game
+[19:23:38] [User Authenticator #4/INFO]: UUID of player fito is e86126f0-a5a9-3987-bccc-219d1ccc778c
+[19:23:42] [Server thread/INFO]: fito joined the game
+[19:23:42] [Server thread/INFO]: fito[/127.175.216.242:59965] logged in with entity id 3712 at ([world]-36.052322146946075, 67.0, 54.04336355871913)
+[19:23:57] [Server thread/INFO]: fito has made the advancement [Cover Me with Diamonds]
+[19:23:59] [Server thread/INFO]: fito has made the advancement [Suit Up]
+[19:25:02] [Server thread/WARN]: STARTGAME moved too quickly! -1.2158858634514793,-2.4881301767226205,17.203242328262387
+[19:25:23] [Server thread/INFO]: STARTGAME fell from a high place
+[19:25:26] [Server thread/WARN]: fito moved too quickly! 10.05090489500234,0.0,-1.002285110324884
+[19:25:59] [Server thread/INFO]: fito lost connection: Timed out
+[19:25:59] [Server thread/INFO]: fito left the game
+[19:30:15] [Server thread/INFO]: Sebas23m issued server command: /home s
+[19:30:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> que paso con tu amigo
+[19:31:01] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> esta muy mal el wifi
+[19:31:09] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[19:31:09] [Server thread/INFO]: STARTGAME left the game
+[19:31:17] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> vale
+[19:31:45] [User Authenticator #5/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[19:31:47] [Server thread/INFO]: STARTGAME joined the game
+[19:31:47] [Server thread/INFO]: STARTGAME[/127.175.216.242:47081] logged in with entity id 4665 at ([world]-16.911745826570954, 62.9375, 63.64388851281033)
+[19:31:57] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> apuesi
+[19:32:06] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> anda mal el wifi weon
+[19:32:06] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> juanito digo que iva a dormir
+[19:32:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> va
+[19:32:24] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> ya no jugará?

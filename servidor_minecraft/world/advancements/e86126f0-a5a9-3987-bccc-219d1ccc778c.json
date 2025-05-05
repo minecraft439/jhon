@@ -11,21 +11,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "in_water": "2025-05-05 19:14:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-05-05 19:13:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-05-05 19:14:06 +0000"
+      "killed_by_something": "2025-05-05 19:10:59 +0000"
     },
     "done": true
   },
@@ -35,15 +23,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_bone_meal": "2025-05-05 19:14:28 +0000"
+      "has_golden_chestplate": "2025-05-05 19:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-05 19:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-05 19:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 19:13:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-05 19:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 19:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-05 19:14:06 +0000"
     },
     "done": true
   },
@@ -59,27 +77,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_gold_nugget": "2025-05-05 19:12:59 +0000"
+      "has_bone_meal": "2025-05-05 19:14:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_golden_chestplate": "2025-05-05 19:12:56 +0000"
+      "has_bone_meal": "2025-05-05 19:14:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "has_lots_of_items": "2025-05-05 19:15:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-05 19:12:59 +0000"
+      "in_water": "2025-05-05 19:14:42 +0000"
     },
     "done": true
   },
@@ -92,18 +104,6 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-05 19:14:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-05-05 19:10:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-05 19:13:01 +0000"
     },
     "done": true
   },
@@ -143,9 +143,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_bone_meal": "2025-05-05 19:14:28 +0000"
+      "has_lots_of_items": "2025-05-05 19:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-05 19:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-05 19:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-05 19:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-05 19:23:59 +0000"
     },
     "done": true
   },
