@@ -183,3 +183,25 @@
 [19:32:06] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> juanito digo que iva a dormir
 [19:32:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> va
 [19:32:24] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> ya no jugará?
+[19:32:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> por a hora no
+[19:33:35] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> sebaaas
+[19:33:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> dime
+[19:33:49] [Server thread/INFO]: STARTGAME issued server command: /tp Sebas23m STARTGAME
+[19:33:49] [Server thread/INFO]: [STARTGAME: Teleported Sebas23m to STARTGAME]
+[19:33:52] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> mira
+[19:33:56] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> otra aldea
+[19:34:04] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> si una alde
+[19:34:06] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> los esclavisemos
+[19:34:17] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> no ya tengo demasiados
+[19:34:21] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> tiene goles nos lo podemos llevar?
+[19:34:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> lla
+[19:34:46] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> pero ya oy hacer esa granja
+[19:34:47] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> me mata el gomel
+[19:34:54] [Server thread/WARN]: STARTGAME moved too quickly! 1.4216453117057881,1.1661092609382138,13.153777976134563
+[19:35:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> llama
+[19:35:04] [Async Chat Thread - #6/INFO]: [Not Secure] <STARTGAME> ?
+[19:35:19] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[19:35:19] [Server thread/INFO]: STARTGAME left the game
+[19:37:50] [Server thread/INFO]: Sebas23m issued server command: /home s
+[19:38:25] [Server thread/INFO]: Villager Villager['Villager'/7, uuid='b05c4fb6-1430-49b2-8197-2140d336255d', l='ServerLevel[world]', x=6.70, y=55.00, z=72.50, cpos=[0, 4], tl=234273, v=true] died, message: 'Villager was slain by Sebas23m'
+[19:42:33] [Server thread/INFO]: Villager Villager['Villager'/10, uuid='af9db152-0c39-4dc0-81f9-7715f81cb597', l='ServerLevel[world]', x=6.70, y=55.00, z=72.52, cpos=[0, 4], tl=1448105, v=true] died, message: 'Villager was slain by Sebas23m'
